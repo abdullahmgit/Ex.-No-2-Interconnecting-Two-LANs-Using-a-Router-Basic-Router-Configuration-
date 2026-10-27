@@ -54,13 +54,15 @@ Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
 •	Router CLI configuration<br>
-<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/8bed9007-cb5b-46bc-a654-e31fc9c399ca" />
+<img width="900" height="882" alt="Screenshot 2026-10-27 153729" src="https://github.com/user-attachments/assets/14a78ba3-0352-4a19-9388-b383f65d264b" />
 •	IP configurations on PCs<br>
-<img width="1600" height="897" alt="image" src="https://github.com/user-attachments/assets/191e9e0f-d34a-45e3-8a89-814055b3a5a8" />
-<img width="1600" height="903" alt="image" src="https://github.com/user-attachments/assets/66981bdb-2412-422d-8507-6c0eb1324819" />
+<img width="900" height="887" alt="Screenshot 2026-10-27 153840" src="https://github.com/user-attachments/assets/39418d9a-52f8-45b2-9e5f-b6ae6f592126" />
+<img width="906" height="892" alt="Screenshot 2026-10-27 153917" src="https://github.com/user-attachments/assets/56ee29b9-682f-4082-861c-c1744cd28c78" />
 •	Successful ping between PC0 and PC1<br>
-<img width="1600" height="902" alt="image" src="https://github.com/user-attachments/assets/6c11d497-2fc1-4cc2-9719-13065d81368d" />
-<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/2a2bb912-6b90-4e6d-bf6e-6fa86c930a27" />
+<img width="912" height="892" alt="Screenshot 2026-10-27 154021" src="https://github.com/user-attachments/assets/04618a2b-0da3-46fd-86d9-da649ee54bf7" />
+<img width="932" height="917" alt="Screenshot 2026-10-27 154256" src="https://github.com/user-attachments/assets/72174866-3fd1-4783-8345-2c528af0c18e" />
+
+
 ________________________________________
 # Result
 Successfully configured a router to connect two LANs. Communication between PC0 and PC1 across different networks was tested and verified.
